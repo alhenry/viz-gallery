@@ -1,8 +1,8 @@
 Forest plot example
 ================
 
-Scripts to recreate ![Figure 4 in Shah S & Henry A, *et al.*
-(2020)](https://www.nature.com/articles/s41467-019-13690-5)
+Scripts to recreate [Figure 4 in Shah S & Henry A, *et al.*
+(2020)](https://www.nature.com/articles/s41467-019-13690-5/figures/4)
 
 ``` r
 library(tidyverse)
